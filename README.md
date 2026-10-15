@@ -6,7 +6,7 @@ Streaming e download de conteúdo adicional via CLI externa configurável pelo u
 Escrito em C++ (raylib + miniaudio). Biblioteca local, playlists, letras sincronizadas,
 página de artista e novidades, e um modo **Host** para ouvir a biblioteca do PC pelo celular.
 
-Pronto para baixar: [Releases](https://github.com/NinjaZinS2/Remix-Linux/releases).
+Pronto para baixar: [Releases](https://github.com/SodreDev/Remix-Linux/releases).
 
 ## Como é organizado
 
@@ -104,11 +104,11 @@ documentação. Nenhuma obra, capa ou foto de terceiros aparece aqui.</sub>
 ## Créditos
 
 <p align="center">
-  <a href="https://github.com/NinjaZinS2"><img src="https://raw.githubusercontent.com/NinjaZinS2/Remix-Linux/main/linux/docs/creditos/sodre.pt-BR.svg" alt="Sodre (NinjaZinS2): autor da versão Linux, playlists, streaming e Host para iOS" width="48%"></a>
-  <a href="https://github.com/Nero-2077"><img src="https://raw.githubusercontent.com/NinjaZinS2/Remix-Linux/main/linux/docs/creditos/nero-2077.pt-BR.svg" alt="Nero-2077: autor original do Remix e da versão Windows" width="48%"></a>
+  <a href="https://github.com/SodreDev"><img src="https://raw.githubusercontent.com/SodreDev/Remix-Linux/main/linux/docs/creditos/sodre.pt-BR.svg" alt="Sodre (SodreDev): autor da versão Linux, playlists, streaming e Host para iOS" width="48%"></a>
+  <a href="https://github.com/Nero-2077"><img src="https://raw.githubusercontent.com/SodreDev/Remix-Linux/main/linux/docs/creditos/nero-2077.pt-BR.svg" alt="Nero-2077: autor original do Remix e da versão Windows" width="48%"></a>
 </p>
 
-**Este repositório (Remix para Linux) é de [Sodre](https://github.com/NinjaZinS2) (NinjaZinS2)**, autor
+**Este repositório (Remix para Linux) é de [Sodre](https://github.com/SodreDev) (SodreDev)**, autor
 da versão Linux. Ele desenvolveu o porte para Linux (raylib + miniaudio), as playlists e a música online
 (streaming e cópias), e teve a ideia do **Host** — o PC vira servidor para o celular — que levou o Remix
 ao **iPhone (iOS) e a outros celulares**.
@@ -320,7 +320,7 @@ por voce > capa do arquivo > imagem da pasta (`cover.jpg` etc.). M4A tambem most
 
 ## Compilacao
 
-Baixe o codigo com `git clone https://github.com/NinjaZinS2/Remix-Linux.git`.
+Baixe o codigo com `git clone https://github.com/SodreDev/Remix-Linux.git`.
 
 ```bash
 bash linux/src/shell/fetch-deps.sh    # raylib 5.5 e o zig (compilador) em linux/third_party/

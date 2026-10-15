@@ -54,7 +54,7 @@ Data desta revisão: **19/09/2026**.
 
 ## Publicado (19/09/2026)
 
-- [x] Limpeza publicada em `NinjaZinS2/Remix-Linux` (commit `324c771`).
+- [x] Limpeza publicada em `SodreDev/Remix-Linux` (commit `324c771`).
 - [x] Repositório antigo `DevelopersOpenSource/Remix` esvaziado: ficaram só `README.md` e `LICENSE`,
       com os links dos repositórios de cada sistema e os créditos. O histórico continua lá (o código
       da versão Windows está no commit `3e0eafd`) e as releases seguem publicadas, com os arquivos

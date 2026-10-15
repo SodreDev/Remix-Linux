@@ -7,7 +7,7 @@ Depends: libc6 (>= @GLIBC@)
 Recommends: libcurl4 | libcurl4t64 | libcurl3-gnutls, zenity | kdialog, hicolor-icon-theme, ffmpeg
 Suggests: nodejs
 Installed-Size: @SIZE@
-Maintainer: Sodre <103298328+NinjaZinS2@users.noreply.github.com>
+Maintainer: Sodre <103298328+SodreDev@users.noreply.github.com>
 Description: Remix Player - player de musica multiplataforma
  Player de musica para desktop: biblioteca por pasta (ou varredura automatica),
  playlists, capas embutidas ou personalizadas, letras sincronizadas, temas,

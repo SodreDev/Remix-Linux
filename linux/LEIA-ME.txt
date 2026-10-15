@@ -1,7 +1,7 @@
 REMIX PLAYER - VERSAO LINUX
 ===========================
 
-SO QUER USAR?   baixe em https://github.com/NinjaZinS2/Remix-Linux/releases
+SO QUER USAR?   baixe em https://github.com/SodreDev/Remix-Linux/releases
                 AppImage (qualquer distro), .deb, .rpm ou zip portatil
 
 O QUE TEM AQUI (tudo do app fica dentro de linux/):

@@ -204,7 +204,7 @@ android/updater/
 ```
 
 - **Quando**: ao abrir, no máximo 1x por dia (`ultima_checagem` no `config.ini`).
-- **De onde**: só `api.github.com/repos/NinjaZinS2/Remix-Linux/releases/latest`, por HTTPS.
+- **De onde**: só `api.github.com/repos/SodreDev/Remix-Linux/releases/latest`, por HTTPS.
   Nunca de um link vindo de fora.
 - **O que faz**: mostra "Tem versão nova (1.x.y): abrir a página". Quem baixa e instala é o
   usuário. Falhou a checagem? Segue normal e tenta de novo no dia seguinte.

@@ -22,4 +22,4 @@ REMIX PLAYER - VERSAO PORTATIL PARA LINUX
    Mantenha esse programa atualizado pela sua distro: as fontes publicas mudam.
 
 Config, capas e playlists ficam nesta pasta. Precisa de glibc 2.27+ (distros de 2018 pra ca).
-Codigo, novidades e ajuda: https://github.com/NinjaZinS2/Remix-Linux
+Codigo, novidades e ajuda: https://github.com/SodreDev/Remix-Linux
